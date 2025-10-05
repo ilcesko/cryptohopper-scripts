@@ -42,13 +42,13 @@ Scripts with `@updateURL` tags support automatic updates via your userscript man
 ### Dashboard Scripts
 
 #### 01. Absolute Values
-Displays absolute profit/loss amounts next to percentage values in open positions table. Works with all base currencies (USDC, USDT, EUR, etc.) and handles different pair formats (BTC/USDC, BTCUSDC).
+Displays absolute profit/loss amounts next to percentage values in open positions table.
 ![Absolute Values feature](images/01_01.png)
 
 ____________________________
 
 #### 02. Latest Sells Absolute Values
-Adds absolute profit/loss calculations to the "Latest 5 Sells" widget using the formula: Absolute Profit = Total × (Percentage ÷ (100 + Percentage))
+Adds absolute profit/loss calculations to the "Latest 5 Sells" widget.
 ![Latest Sells Absolute Values feature](images/02_01.png)
 
 ____________________________
@@ -63,7 +63,7 @@ ____________________________
 Enhanced stats box showing:
 - Gross profit breakdown
 - Net profit calculation  
-- Base currency available with 4-decimal precision percentage
+- Base currency avalable
 ![Stats Detail feature](images/04_01.png)
 
 ____________________________
@@ -98,9 +98,7 @@ Adds three buttons to export dialog:
 ____________________________
 
 #### 09. Chat Assistant Removal
-Removes visual clutter:
-- Hoppie mascot animations
-- Intercom chat widget
+Removes chat assistant widget
 ![Chat Assistant Removal feature](images/09_01.png)
 
 ____________________________
