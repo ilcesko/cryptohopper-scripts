@@ -142,6 +142,23 @@ Contributions are welcome! Please:
 3. Update version numbers appropriately
 4. Document any new features in this README
 
+## 💝 Support
+
+If you find these scripts useful and want to support continued development, consider buying me a coffee:
+
+<p align="center">
+  <a href="https://www.paypal.me/ilcesko">
+    <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal">
+  </a>
+  <a href="https://revolut.me/casonato">
+    <img src="https://img.shields.io/badge/Revolut-0075EB?style=for-the-badge&logo=revolut&logoColor=white" alt="Revolut">
+  </a>
+</p>
+
+<p align="center">
+  <em>Donations are appreciated but never required. These scripts will always remain free and open source.</em>
+</p>
+
 ## 📝 Credits
 
 Original authors and contributors:
