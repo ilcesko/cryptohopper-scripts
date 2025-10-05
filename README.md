@@ -41,59 +41,53 @@ Scripts with `@updateURL` tags support automatic updates via your userscript man
 
 ### Dashboard Scripts
 
-#### Absolute Values
+#### 01. Absolute Values
 Displays absolute profit/loss amounts next to percentage values in open positions table. Works with all base currencies (USDC, USDT, EUR, etc.) and handles different pair formats (BTC/USDC, BTCUSDC).
 
-#### Latest Sells Absolute Values
+#### 02. Latest Sells Absolute Values
 Adds absolute profit/loss calculations to the "Latest 5 Sells" widget using the formula: Absolute Profit = Total × (Percentage ÷ (100 + Percentage))
 
-#### Stats Detail
+#### 03. Trade History Absolute Values
+Adds absolute profit/loss values to all sell transactions in the trade history table.
+
+#### 04. Stats Detail
 Enhanced stats box showing:
 - Gross profit breakdown
 - Net profit calculation  
 - Base currency available with 4-decimal precision percentage
 
-#### Position Targets
+#### 05. Position Targets
 Adds colored icons after coin names:
 - 🟢 Green: Buy target active
 - 🔴 Red: Sell target active
 
-#### Panic Button Remover
+#### 06. Panic Button Remover
 Removes the panic button widget to prevent emotional trading decisions.
 
-#### Target Restore
+#### 07. Target Restore
 Restores the old target display functionality, showing both active (green) and inactive (yellow) targets.
 
-### Trade History Scripts
-
-#### Trade History Absolute Values
-Adds absolute profit/loss values to all sell transactions in the trade history table.
-
-#### Export Saved Trade History
+#### 08. Export Saved Trade History
 Adds three buttons to export dialog:
 - **Save Settings**: Save export configuration
 - **Load Settings**: Load saved configuration
 - **Export Saved**: One-click export with saved settings
 
-### Chart & AI Scripts
+#### 09. Chat Assistant Removal
+Removes visual clutter:
+- Hoppie mascot animations
+- Intercom chat widget
 
-#### TradingView Chart Mods
+#### 10. TradingView Chart Mods
 Enhances TradingView charts with:
 - Buy indicator at entry point
 - Average cost position line
 - Take profit and stop loss levels
 
-#### AI Bulk Training
+#### 11. AI Bulk Training
 Adds "Bulk Learn" button to train multiple coin pairs simultaneously. Prevents duplicate training and respects queue limits.
 
-### Utility Scripts
-
-#### Chat Assistant Removal
-Removes visual clutter:
-- Hoppie mascot animations
-- Intercom chat widget
-
-#### Coin List Exporter
+#### 12. Coin List Exporter
 Adds "Copy coinlist" option to config dropdown menu. Exports coins in `COIN/BASE` format (e.g., `BTC/USDC, ETH/USDC`).
 
 ## 🔧 Compatibility
