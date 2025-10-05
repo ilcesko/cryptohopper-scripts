@@ -6,18 +6,18 @@ A collection of userscripts to enhance the Cryptohopper trading platform experie
 
 | Script | Version | Description | Page |
 |--------|---------|-------------|------|
-| [Absolute Values](Cryptohopper Absolute Values.user.js) | 1.2 | Adds absolute profit/loss values to open positions | Dashboard |
-| [Panic Button Remover](panic-button-remover.user.js) | 1.1 | Hides the panic button from dashboard | Dashboard |
-| [Position Targets](position-targets.user.js) | 1.1 | Adds visual indicators for buy/sell targets | Dashboard |
-| [Target Restore](target-restore.user.js) | 1.1 | Shows active and inactive trading targets | Dashboard |
-| [Latest Sells Absolute Values](latest-sells-absolute.user.js) | 1.1 | Adds absolute profit/loss to latest sells widget | Dashboard |
-| [Trade History Absolute Values](trade-history-absolute.user.js) | 1.1 | Adds absolute profit/loss to trade history | Trade History |
-| [TradingView Chart Mods](chart-mods.user.js) | 1.0 | Adds buy indicators and position lines to charts | Charts |
-| [Chat Assistant Removal](chat-assistant-removal.user.js) | 1.0 | Removes Hoppie mascot and Intercom widget | All Pages |
-| [Export Saved Trade History](export-saved-trade-history.user.js) | 1.0 | One-click export with saved settings | Trade History |
-| [Stats Detail](stats-detail.user.js) | 1-0 | Enhanced profit breakdown and base currency info | Dashboard |
-| [AI Bulk Training](ai-bulk-training.user.js) | 1.0 | Bulk train AI strategies with multiple pairs | AI Strategies |
-| [Coin List Exporter](coin-list-exporter.user.js) | 1.0 | Export coin list to clipboard | Config |
+| [Absolute Values](01.%20Absolute%20Values.user.js) | 1.2 | Adds absolute profit/loss values to open positions | Dashboard |
+| [Latest Sells Absolute Values](02.%20Latest%20Sells%20Absolute%20Values.user.js) | 1.1 | Adds absolute profit/loss to latest sells widget | Dashboard |
+| [Trade History Absolute Values](03.%20Trade%20History%20Absolute%20Values.user.js) | 1.1 | Adds absolute profit/loss to trade history | Trade History |
+| [Stats Detail](04.%20Stats%20Detail.user.js) | 1.0 | Enhanced profit breakdown and base currency info | Dashboard |
+| [Position Targets](05.%20Position%20Targets.user.js) | 1.1 | Adds visual indicators for buy/sell targets | Dashboard |
+| [Panic Button Remover](06.%20Panic%20Button%20Remover.user.js) | 1.1 | Hides the panic button from dashboard | Dashboard |
+| [Target Restore](07.%20Target%20Restore.user.js) | 1.1 | Shows active and inactive trading targets | Dashboard |
+| [TradingView Chart Mods](08.%20TradingView%20Chart%20Mods.user.js) | 1.0 | Adds buy indicators and position lines to charts | Charts |
+| [Chat Assistant Removal](09.%20Chat%20Assistant%20Removal.user.js) | 0.5 | Removes Hoppie mascot and Intercom widget | All Pages |
+| [Export Saved Trade History](10.%20Export%20Saved%20Trade%20History.user.js) | 1.0 | One-click export with saved settings | Trade History |
+| [AI Bulk Training](11.%20AI%20Bulk%20Training.user.js) | 1.0 | Bulk train AI strategies with multiple pairs | AI Strategies |
+| [Coin List Exporter](12.%20Coin%20List%20Exporter.user.js) | 1.0 | Export coin list to clipboard | Config |
 
 ## 🚀 Installation
 
@@ -29,13 +29,13 @@ A collection of userscripts to enhance the Cryptohopper trading platform experie
   - **Opera**: [Tampermonkey](https://addons.opera.com/en/extensions/details/tampermonkey-beta/)
 
 ### Installing Scripts
-1. Click on the script file you want to install
+1. Click on the script file you want to install from the table above
 2. Click the "Raw" button on GitHub
 3. Your userscript manager will prompt you to install
 4. Click "Install" to confirm
 
 ### Automatic Updates
-All scripts include `@updateURL` tags for automatic updates via your userscript manager.
+Scripts with `@updateURL` tags support automatic updates via your userscript manager.
 
 ## 📖 Script Details
 
@@ -44,28 +44,25 @@ All scripts include `@updateURL` tags for automatic updates via your userscript 
 #### Absolute Values
 Displays absolute profit/loss amounts next to percentage values in open positions table. Works with all base currencies (USDC, USDT, EUR, etc.) and handles different pair formats (BTC/USDC, BTCUSDC).
 
-#### Panic Button Remover
-Removes the panic button widget to prevent emotional trading decisions.
-
-#### Position Targets
-Adds colored icons after coin names:
-- 🟢 Green: Buy target active
-- 🔴 Red: Sell target active
-
-#### Target Restore
-Restores the old target display functionality, showing both active (green) and inactive (yellow) targets.
-
 #### Latest Sells Absolute Values
-Adds absolute profit/loss calculations to the "Latest 5 Sells" widget using the formula:
-```
-Absolute Profit = Total × (Percentage ÷ (100 + Percentage))
-```
+Adds absolute profit/loss calculations to the "Latest 5 Sells" widget using the formula: Absolute Profit = Total × (Percentage ÷ (100 + Percentage))
 
 #### Stats Detail
 Enhanced stats box showing:
 - Gross profit breakdown
 - Net profit calculation  
 - Base currency available with 4-decimal precision percentage
+
+#### Position Targets
+Adds colored icons after coin names:
+- 🟢 Green: Buy target active
+- 🔴 Red: Sell target active
+
+#### Panic Button Remover
+Removes the panic button widget to prevent emotional trading decisions.
+
+#### Target Restore
+Restores the old target display functionality, showing both active (green) and inactive (yellow) targets.
 
 ### Trade History Scripts
 
@@ -131,4 +128,4 @@ These scripts are provided as-is. Use at your own risk. Always verify calculatio
 
 ## 📄 License
 
-MIT License - see [LICENSE](LICENSE) file for details
+MIT License - see [LICENSE](license_mit.txt) file for details
