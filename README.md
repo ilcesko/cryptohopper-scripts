@@ -43,6 +43,7 @@ Scripts with `@updateURL` tags support automatic updates via your userscript man
 
 #### 01. Absolute Values
 Displays absolute profit/loss amounts next to percentage values in open positions table. Works with all base currencies (USDC, USDT, EUR, etc.) and handles different pair formats (BTC/USDC, BTCUSDC).
+![Absolute Values feature](images/01-01.png)
 
 #### 02. Latest Sells Absolute Values
 Adds absolute profit/loss calculations to the "Latest 5 Sells" widget using the formula: Absolute Profit = Total × (Percentage ÷ (100 + Percentage))
