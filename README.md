@@ -6,7 +6,7 @@ A collection of userscripts to enhance the Cryptohopper trading platform experie
 
 | Script | Version | Description | Page |
 |--------|---------|-------------|------|
-| [Absolute Values](absolute-values.user.js) | 1.2 | Adds absolute profit/loss values to open positions | Dashboard |
+| [Absolute Values](Cryptohopper Absolute Values.user.js) | 1.2 | Adds absolute profit/loss values to open positions | Dashboard |
 | [Panic Button Remover](panic-button-remover.user.js) | 1.1 | Hides the panic button from dashboard | Dashboard |
 | [Position Targets](position-targets.user.js) | 1.1 | Adds visual indicators for buy/sell targets | Dashboard |
 | [Target Restore](target-restore.user.js) | 1.1 | Shows active and inactive trading targets | Dashboard |
