@@ -45,51 +45,87 @@ Scripts with `@updateURL` tags support automatic updates via your userscript man
 Displays absolute profit/loss amounts next to percentage values in open positions table. Works with all base currencies (USDC, USDT, EUR, etc.) and handles different pair formats (BTC/USDC, BTCUSDC).
 ![Absolute Values feature](images/01_01.png)
 
+____________________________
+
 #### 02. Latest Sells Absolute Values
 Adds absolute profit/loss calculations to the "Latest 5 Sells" widget using the formula: Absolute Profit = Total × (Percentage ÷ (100 + Percentage))
+![Latest Sells Absolute Values feature](images/02_01.png)
+
+____________________________
 
 #### 03. Trade History Absolute Values
 Adds absolute profit/loss values to all sell transactions in the trade history table.
+![Trade History Absolute Values feature](images/03_01.png)
+
+____________________________
 
 #### 04. Stats Detail
 Enhanced stats box showing:
 - Gross profit breakdown
 - Net profit calculation  
 - Base currency available with 4-decimal precision percentage
+![Stats Detail feature](images/04_01.png)
+
+____________________________
 
 #### 05. Position Targets
 Adds colored icons after coin names:
 - 🟢 Green: Buy target active
 - 🔴 Red: Sell target active
+![Position Targets feature](images/05_01.png)
+
+____________________________
 
 #### 06. Panic Button Remover
 Removes the panic button widget to prevent emotional trading decisions.
+![Panic Button Remover feature](images/06_01.png)
+
+____________________________
 
 #### 07. Target Restore
 Restores the old target display functionality, showing both active (green) and inactive (yellow) targets.
+![Target Restore feature](images/07_01.png)
+
+____________________________
 
 #### 08. Export Saved Trade History
 Adds three buttons to export dialog:
 - **Save Settings**: Save export configuration
 - **Load Settings**: Load saved configuration
-- **Export Saved**: One-click export with saved settings
+- **Export Saved**: One-click export with saved settings (only works if previously saved settings)
+![Export Saved Trade History feature](images/08_01.png)
+
+____________________________
 
 #### 09. Chat Assistant Removal
 Removes visual clutter:
 - Hoppie mascot animations
 - Intercom chat widget
+![Chat Assistant Removal feature](images/09_01.png)
+
+____________________________
 
 #### 10. TradingView Chart Mods
 Enhances TradingView charts with:
 - Buy indicator at entry point
 - Average cost position line
 - Take profit and stop loss levels
+![TradingView Chart Mods feature](images/10_01.png)
+
+____________________________
 
 #### 11. AI Bulk Training
 Adds "Bulk Learn" button to train multiple coin pairs simultaneously. Prevents duplicate training and respects queue limits.
+![AI Bulk Training feature](images/11_01.png)
+![AI Bulk Training feature](images/11_02.png)
+
+____________________________
 
 #### 12. Coin List Exporter
 Adds "Copy coinlist" option to config dropdown menu. Exports coins in `COIN/BASE` format (e.g., `BTC/USDC, ETH/USDC`).
+![oin List Exporter feature](images/12_01.png)
+
+____________________________
 
 ## 🔧 Compatibility
 
