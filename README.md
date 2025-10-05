@@ -144,7 +144,7 @@ Contributions are welcome! Please:
 
 ## 💝 Support
 
-If you find these scripts useful and want to support continued development, consider buying me a coffee:
+If you find these scripts useful and want to support continued development, consider buying me a coffee or a beer:
 
 <p align="center">
   <a href="https://www.paypal.me/ilcesko">
