@@ -141,7 +141,7 @@ Adds "Bulk Learn" button to train multiple coin pairs simultaneously. Prevents d
 3. You will see a new button called "Bulk Learn" - clicking this will open the dialog
 ![AI Bulk Training feature](images/11_01.png)
 4. Enter a comma-separated list of the coin pairs you want to train
-![AI Bulk Training feature](images/11_02.png)
+<img src="images/11_02.png" alt="AI Bulk Training feature" width="480">
 5. Click OK and watch it go!
 
 ____________________________
