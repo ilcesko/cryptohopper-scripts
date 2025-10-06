@@ -148,7 +148,7 @@ ____________________________
 
 #### 12. Coin List Exporter
 Adds "Copy coinlist" option to config dropdown menu. Exports coins in `COIN/BASE` format (e.g., `BTC/USDC, ETH/USDC`).
-![oin List Exporter feature](images/12_01.png)
+<img src="images/12_02.png" alt="coin List Exporter feature" width="480">
 
 ____________________________
 
