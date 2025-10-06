@@ -81,8 +81,7 @@ ____________________________
 #### 04. Stats Detail
 Enhanced stats box showing:
 - Gross profit breakdown
-- Net profit calculation  
-- Base currency avalable
+- Base currency available
 <img src="images/04_01.png" alt="Stats Detail feature" width="480">
 
 ____________________________
