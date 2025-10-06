@@ -97,6 +97,7 @@ ____________________________
 
 #### 06. Panic Button Remover
 Removes the panic button widget to prevent emotional trading decisions.
+
 <img src="images/06_01.png" alt="Panic Button Remover feature" width="480">
 
 ____________________________
