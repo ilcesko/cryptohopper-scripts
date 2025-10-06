@@ -200,4 +200,4 @@ These scripts are provided as-is. Use at your own risk. Always verify calculatio
 
 ## 📄 License
 
-MIT License - see [LICENSE](license_mit.txt) file for details
+MIT License - see [LICENSE](license.txt) file for details
