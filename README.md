@@ -97,13 +97,13 @@ ____________________________
 
 #### 06. Panic Button Remover
 Removes the panic button widget to prevent emotional trading decisions.
-![Panic Button Remover feature](images/06_01.png)
+<img src="images/06_01.png" alt="Panic Button Remover feature" width="480">
 
 ____________________________
 
 #### 07. Target Restore
 Restores the old target display functionality, showing both active (green) and inactive (yellow) targets.
-![Target Restore feature](images/07_01.png)
+<img src="images/07_01.png" alt="Target Restore feature" width="480">
 
 ____________________________
 
@@ -118,7 +118,7 @@ ____________________________
 
 #### 09. Chat Assistant Removal
 Removes chat assistant widget
-![Chat Assistant Removal feature](images/09_01.png)
+<img src="images/09_01.png" alt="Chat Assistant Removal feature" width="480">
 
 ____________________________
 
