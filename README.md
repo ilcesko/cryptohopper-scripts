@@ -83,7 +83,7 @@ Enhanced stats box showing:
 - Gross profit breakdown
 - Net profit calculation  
 - Base currency avalable
-<img src="images/04_01.png" alt="Stats Detail feature" width="600">
+<img src="images/04_01.png" alt="Stats Detail feature" width="480">
 
 ____________________________
 
@@ -91,7 +91,7 @@ ____________________________
 Adds colored icons after coin names:
 - 🟢 Green: Buy target active
 - 🔴 Red: Sell target active
-![Position Targets feature](images/05_01.png)
+<img src="images/05_01.png" alt="Position Targets feature" width="480">
 
 ____________________________
 
