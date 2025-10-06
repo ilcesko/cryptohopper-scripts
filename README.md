@@ -2,6 +2,25 @@
 
 A collection of userscripts to enhance the Cryptohopper trading platform experience.
 
+## What Is Cryptohopper?
+
+Cryptohopper is a sophisticated algorithmic trading platform that connects directly to your cryptocurrency exchange, executing trades autonomously based on technical analysis, market signals, and custom strategies. Operating continuously, it monitors market conditions and makes data-driven decisions about entry points and exit targets to optimize trading performance.
+
+[Sign Up for Cryptohopper](https://www.cryptohopper.com/?atid=37888) (affiliate link)
+
+## Why These Scripts?
+
+Cryptohopper delivers robust, consistent results through its automated trading approach. However, the platform's interface can be tailored to better support disciplined, data-driven decision-making.
+
+These userscripts represent practical modifications built on the work of various community contributors (credited in each script). Originally developed for personal use to address specific workflow needs, they proved valuable enough to share with the broader trading community.
+
+## ⚠️ Security Implications
+
+These scripts manipulate elements on a financial site while you are logged in. Please read and understand what the code is doing before you run it.
+
+You are responsible for the code you run on your computer. By downloading and executing these scripts, you take responsibility for anything they may do, so please read and understand the code **before** installing it.
+Cryptohopper may change its website at any moment, causing one or all of these scripts to cease functioning.
+
 ## 📋 Script List
 
 | Script | Version | Description | Page |
