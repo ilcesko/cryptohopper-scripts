@@ -119,6 +119,7 @@ ____________________________
 
 #### 09. Chat Assistant Removal
 Removes chat assistant widget
+
 <img src="images/09_01.png" alt="Chat Assistant Removal feature" width="480">
 
 ____________________________
