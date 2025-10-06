@@ -126,15 +126,21 @@ ____________________________
 Enhances TradingView charts with:
 - Buy indicator at entry point
 - Average cost position line
-- Take profit and stop loss levels
 ![TradingView Chart Mods feature](images/10_01.png)
 
 ____________________________
 
 #### 11. AI Bulk Training
 Adds "Bulk Learn" button to train multiple coin pairs simultaneously. Prevents duplicate training and respects queue limits.
+**Usage:**
+
+1. Navigate to the AI training page
+2. Select your exchange
+3. You will see a new button called "Bulk Learn" - clicking this will open the dialog
 ![AI Bulk Training feature](images/11_01.png)
+4. Enter a comma-separated list of the coin pairs you want to train
 ![AI Bulk Training feature](images/11_02.png)
+5. Click OK and watch it go!
 
 ____________________________
 
