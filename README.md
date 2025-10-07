@@ -107,12 +107,11 @@ Restores the old target display functionality, showing both active (green) and i
 
 ____________________________
 
-#### 08. Export Saved Trade History
-Adds three buttons to export dialog:
-- **Save Settings**: Save export configuration
-- **Load Settings**: Load saved configuration
-- **Export Saved**: One-click export with saved settings (only works if previously saved settings)
-![Export Saved Trade History feature](images/08_01.png)
+#### 08. TradingView Chart Mods
+Enhances TradingView charts with:
+- Buy indicator at entry point
+- Average cost position line
+![TradingView Chart Mods feature](images/08_01.png)
 
 ____________________________
 
@@ -123,11 +122,12 @@ Removes chat assistant widget
 
 ____________________________
 
-#### 10. TradingView Chart Mods
-Enhances TradingView charts with:
-- Buy indicator at entry point
-- Average cost position line
-![TradingView Chart Mods feature](images/10_01.png)
+#### 08. Export Saved Trade History
+Adds three buttons to export dialog:
+- **Save Settings**: Save export configuration
+- **Load Settings**: Load saved configuration
+- **Export Saved**: One-click export with saved settings (only works if previously saved settings)
+![Export Saved Trade History feature](images/10_01.png)
 
 ____________________________
 
