@@ -122,7 +122,7 @@ Removes chat assistant widget
 
 ____________________________
 
-#### 08. Export Saved Trade History
+#### 10. Export Saved Trade History
 Adds three buttons to export dialog:
 - **Save Settings**: Save export configuration
 - **Load Settings**: Load saved configuration
