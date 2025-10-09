@@ -40,6 +40,9 @@ Cryptohopper may change its website at any moment, causing one or all of these s
 
 ## 🚀 Installation
 
+HOW TO VIIDEO:
+[![Watch the HOW-TO video]](https://youtu.be/M10Y1doGnC0)
+
 ### Prerequisites
 - Install a userscript manager:
   - **Chrome/Edge**: [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)
