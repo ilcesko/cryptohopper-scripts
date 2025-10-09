@@ -40,7 +40,7 @@ Cryptohopper may change its website at any moment, causing one or all of these s
 
 ## 🚀 Installation
 
-[![Watch the HOW-TO video]](https://youtu.be/M10Y1doGnC0)
+[![YouTube HOW-TO video](https://img.shields.io/badge/YouTube-Installation_Guide-red?style=for-the-badge&logo=youtube)](https://youtu.be/M10Y1doGnC0)
 
 ### Prerequisites
 - Install a userscript manager:
