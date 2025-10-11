@@ -2,8 +2,8 @@
 // @name         Cryptohopper Panic Button Remover Mobile
 // @namespace    cryptohopper
 // @version      1.1-mobile
-// @description  Nascondi panic button - Ottimizzato per Firefox Android
-// @author       user
+// @description  Hide panic button - Firefox Android Optimized
+// @author       @ilcesko
 // @match        https://www.cryptohopper.com/dashboard*
 // @grant        none
 // @run-at       document-idle
